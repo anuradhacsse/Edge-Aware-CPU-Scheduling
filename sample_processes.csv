@@ -1,0 +1,9 @@
+pid,name,arrival,burst,priority,cpu_need,mem_need
+P1,Video Analytics,0,12,3,45,600
+P2,Sensor Read,1,2,1,10,64
+P3,Data Logging,2,6,4,20,200
+P4,Machine Alert,3,3,1,15,96
+P5,Model Inference,4,8,2,50,520
+P6,Cloud Sync,5,10,5,25,300
+P7,Temperature Check,6,2,2,10,48
+P8,Firmware Check,8,5,4,20,450
